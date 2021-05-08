@@ -35,7 +35,7 @@ Clone first.
     
 ## Screenshots
 
-![App Screenshot](https://previews.dropbox.com/p/thumb/ABLTZcQtSYRa2NFZbalZPcTi8MasaP7ylXWoN3ic97qqF5pAoJOSVMgfjcUuBox-C2Y_vCdYta1hQFUcKUb0XVoM1-KlBCXV8HZ-RAfyK0gdVnkvSrkbZiHz8GQ6Xwo8XBUEci7tj1FrEyRiuSWb76wDRSiaf0aX3ThznSnYRCMY0sF9MaIpYfABmht-3nJdu-oeZ1EQYdUFowQ8peiaQ6_qFIC1CHTZ6evWKk9Vs2Wp9cIccw7nrmxkfIrVH-TX3urBTCHUZyZggjj0yERBNXNoSgZTInmzI821qcvjAdbzluI0ncDQQKtBXWie9x5YxizRB5qCvQDSRXZqyZOiEYcLVnw73o_s5HCg1erByC5zLA/p.png?size=2048x1536&size_mode=3)
+![App Screenshot](https://raw.githubusercontent.com/hakancangunerli/kripto/main/public/app-screnshot.png?token=AH5KW2KW726TZGFP55XWEKLAT6NLS)
 
   
 ## Acknowledgements
