@@ -1,7 +1,5 @@
 
-## Authors
 
-- [@hakancangunerli](https://www.github.com/hakancangunerli)
 
   
 ## Badges
@@ -37,7 +35,12 @@ Clone first.
 
 ![App Screenshot](https://raw.githubusercontent.com/hakancangunerli/kripto/main/public/app-screnshot.png?token=AH5KW2KW726TZGFP55XWEKLAT6NLS)
 
-  
+ 
+ ## Authors
+
+- [@hakancangunerli](https://www.github.com/hakancangunerli)
+ 
+ 
 ## Acknowledgements
 Note: this is not 100% my code, I took a lot of advice from all over the place. 
  - [Main Reference](https://www.youtube.com/watch?v=GHC7KrmO4oY)
