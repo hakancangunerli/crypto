@@ -1,7 +1,7 @@
 
 ## Authors
 
-- [@hakancangunerli](https://www.github.com/katherinepeterson)
+- [@hakancangunerli](https://www.github.com/hakancangunerli)
 
   
 ## Badges
