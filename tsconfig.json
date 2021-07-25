@@ -1,0 +1,20 @@
+{
+    "compilerOptions": {
+      "outDir": "./built",
+      "allowJs": true,
+      "target": "es6", 
+       "jsx": "react",
+       "lib": [
+        "es6",
+        "dom"
+    ],
+    "types": [
+        "node"
+    ]
+    
+
+    },
+    "include": ["./src/**/*"]
+  }
+
+ 
