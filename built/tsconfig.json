@@ -14,7 +14,7 @@
     
 
     },
-    "include": ["./src/**/*"]
+    "include": ["./src/**/*", "built/index.tsx"]
   }
 
  
