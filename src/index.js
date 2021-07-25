@@ -6,7 +6,7 @@ require("./index.css");
 var App_1 = require("./App");
 react_dom_1["default"].render(<react_1["default"].StrictMode>
     <App_1.default />
-  </react_1["default"].StrictMode>, document.getElementById('root'));
+  </react_1["default"].StrictMode>, document.getElementById('root')); // WHAT THE FUCK IS WRONG HERE???
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
