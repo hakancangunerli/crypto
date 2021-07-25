@@ -3,7 +3,7 @@
       "outDir": "./built",
       "allowJs": true,
       "target": "es6", 
-       "jsx": "react",
+       "jsx": "react-native",
        "lib": [
         "es6",
         "dom"
